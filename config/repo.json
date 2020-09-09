@@ -30,5 +30,16 @@
         "description" : "blablablaaa"
       }
     }
+  },
+  "Nana-Remix (wulan17)" : {
+    "Author" : "wulan17",
+    "repo-link" : "https://github.com/wulan17/Nana-Remix",
+    "version" : {
+      "latest" : {
+        "is-beta" : false,
+        "dockerfile" : "https://raw.githubusercontent.com/wulan17/Nana-Remix/master/Dockerfile",
+        "description" : "blablablaaa"
+      }
+    }
   }
 }
